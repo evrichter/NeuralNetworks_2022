@@ -22,3 +22,6 @@ Backpropagation
 
 **Assignment 7**
 Ridge Regression
+
+**Assignment 9**
+CNNs
